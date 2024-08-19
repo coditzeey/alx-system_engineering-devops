@@ -1,6 +1,6 @@
 # 0x19-postmortem task
 
-
+![Technical Issue Resolution](./photo_2024-08-18_22-25-00.jpg)
 # Issue Summary:
 - **Duration**: The outage occurred on June 15, 2023, from 9:00 AM to 1:00 PM (PST).
 - **Impact**: The customer login/authentication service was down, causing a 30% increase in overall customer support calls due to login failures.
